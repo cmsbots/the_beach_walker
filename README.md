@@ -6,20 +6,37 @@ This HTML template is generated using CMSBots.com An Online template generator f
 Features :
 
 HTML5 and CSS3
+
 Twitter bootstrap 3
+
 Font awesome to reduce image requests
+
 W3C Validated
+
 Fully responsive and tested in android and IOS browsers.
+
 Opensource images
+
 Price table
+
 Home page slider with touch swipe
+
 Open source libraries 
+
 Available at github to fork
+
 Tested in Google Chrome, Firefox, Internet Explorer 9+, Safari and in opera.
+
 Single Page version and multi page version.
+
 Contact form, submission are email to user.
+
 SEO friendly
+
 4 contact page variations
+
 3 Blog page variations
+
 5 inner page variations 
+
 Style guide page
