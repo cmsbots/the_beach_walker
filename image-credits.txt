@@ -1,0 +1,22 @@
+This file list images and its sources used in this template
+
+
+Image Websites Links: 
+http://pixabay.com/
+https://unsplash.com/grid
+
+content-image-header-header-navy-blue-slider-main-background1.jpg
+Image-link: http://pixabay.com/get/b8749884eb5ac48ecfe3/1422625514/sheep-472805_1280.jpg?direct
+
+content-image-header-header-navy-blue-slider-main-background2.jpg
+Image-link: https://ununsplash.imgix.net/23/beach-tracks.JPG?q=75&fm=jpg&s=625f767e3d0391f80559ee4b49eed4df
+
+content-image-header-header-navy-blue-slider-main-background3.jpg
+Image-link: https://unsplash.imgix.net/35/JOd4DPGLThifgf38Lpgj_IMG.jpg?q=75&fm=jpg&s=c4f6727025aba1d850d47d03eabc5e15
+
+content-image-header-header-navy-blue-slider-main-background4.jpg
+Image-link: https://ununsplash.imgix.net/39/vsSIIQbXTHCO1jBsKm4Q_IMG_1779_edt.jpg?q=75&fm=jpg&s=12a419a29dd3677e92af0a90b95d0dcc
+
+content-image-header-header-navy-blue-slider-main-background5.jpg
+Image-link: https://unsplash.imgix.net/reserve/kKvwBPaT9ucgomTWSQx9_switzerland-photo.jpg?q=75&fm=jpg&s=be3a8bcfecee1c4263bc78709ae1ce56
+

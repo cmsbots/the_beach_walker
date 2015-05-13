@@ -1,0 +1,491 @@
+@media (max-width: 767px) {
+
+.content-aqua-green .container {
+  padding-top: 6px;
+  padding-top: 6px;
+}
+
+.content-aqua-green .top-header .title {
+  font-size: 2.6em;
+}
+
+.content-aqua-green .top-header .description {
+  font-size: 1.1em;
+  margin-bottom: 26px;
+  padding-left: 15px;
+}
+
+.content-aqua-green .content-boxes .content-box .title {
+  font-size: 1.6em;
+  font-weight: normal;
+  display: inline;
+  padding-left: 5px;
+}
+
+.content-aqua-green .content-boxes .content-box i {
+  font-size: 1.35em;
+  margin: auto;
+  padding-top: 5px;
+}
+
+.content-aqua-green .content-boxes .content-box .icon-circle {
+  border-radius: 20px;
+  display: inline-flex;
+  height: 40px;
+  width: 40px;
+}
+
+.content-aqua-green .content-boxes .content-box .description {
+  font-size: 1.2em;
+  text-align: justify;
+  margin-top: 5px;
+}
+
+.content-aqua-green .content-boxes .content-box {
+  padding-bottom: 30px;
+  padding-left: 10px;
+}
+
+}@media (min-width: 768px) and (max-width: 1169px) {
+
+.content-box .responsive-image {
+  width: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.content-orange .content-boxes .content-box .title {
+  font-weight: normal;
+  margin-left: 20px;
+  display: inline-flex;
+  margin-bottom: 1px;
+}
+
+.content-orange .content-boxes .content-box .description {
+  margin-left: 20px;
+}
+
+.content-orange .content-boxes .content-box .icon-circle {
+  border-radius: 35px;
+  display: inline-flex;
+  font-size: 2.5em;
+  height: 70px;
+  margin-top: 5px;
+  width: 70px;
+}
+
+.content-orange .content-boxes .content-box .icon-circle i {
+  margin: auto;
+  padding-top: 2px;
+}
+
+}
+
+@media (max-width: 767px) {
+
+.content-orange {
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.content-orange .top-header .title {
+  font-size: 2.40em;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.content-orange .top-header .description {
+  font-size: 0.98em;
+  margin-bottom: 29px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.content-box .responsive-image {
+  width: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.content-orange .responsive-image {
+  margin-bottom: 26px;
+  width: 100%;
+}
+
+.content-orange .content-boxes .content-box .title {
+  font-size: 1.60em;
+  font-weight: normal;
+  margin-left: 15px;
+  display: inline-flex;
+  margin-bottom: 1px;
+}
+
+.content-orange .content-boxes .content-box .description {
+  font-size: 1.18em;
+  margin-left: 15px;
+}
+
+.content-orange .content-boxes .content-box .icon-circle {
+  border-radius: 35px;
+  display: inline-flex;
+  font-size: 2.5em;
+  height: 70px;
+  margin-top: 5px;
+  width: 70px;
+}
+
+.content-orange .content-boxes .content-box .icon-circle i {
+  margin: auto;
+  padding-top: 2px;
+}
+  
+.content-orange .content-boxes .content-box {
+  margin-bottom: 20px;
+}
+
+}@media (max-width: 767px) {
+
+.footer-white {
+  padding-top: 25px;
+  padding-bottom: 27px;
+}
+
+.footer-white .footer-message h2.title {
+  margin-bottom: 13px;
+}
+
+.footer-white .footer-message-content .camera-icon i {
+  margin-top: 15px;
+}
+
+.footer-white .footer-message {
+  padding-bottom: 6px;
+}
+
+.footer-white .footer-message .block-content {
+  padding-left: 2%;
+  padding-right: 2%;
+  font-size: 15px;
+}
+
+.footer-white .footer-menus-signup {
+  text-align: center;
+}
+
+.footer-white .footer-menus-signup .title h2 {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+.footer-white .footer-menus-signup .footer-signup-title {
+  margin-bottom: 20px;
+}
+
+.footer-white #mainchimp-subscribe {
+  border-bottom: 0px;
+}
+
+.footer-white #contact_email {
+  border: none;
+  width: 90%;
+  
+  display: inline;
+  border-radius: 0px;
+  text-align: center
+}
+
+.footer-white .subscribe-form-submit {
+  display: inline;
+  width: 90%;
+  text-align: center;
+  margin-top: 30px;
+  float: none; 
+  border-radius: 0px;
+  height: 45px;
+  font-style: normal;
+}
+
+.footer-white .footer-copyright {
+  text-align: center;
+}
+
+}
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Header / Header navy blue slider  -----------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 767px) {
+
+.header-navyblue-slider-menu .site-logo-name {
+  margin-top: 10px;
+}
+
+.carousel-homeslider-header-navyblue-slider .carousel-caption {
+  bottom: auto;
+  top: 0px;
+}
+
+.carousel-homeslider-header-navyblue-slider .carousel-indicators {
+  bottom: auto;
+  top: 20%;
+}
+
+.carousel-homeslider-header-navyblue-slider .carousel-caption .desc {
+  font-size: 1em;
+  margin-bottom: 10px;
+}
+
+.carousel-homeslider-header-navyblue-slider .carousel-caption .title {
+  font-size: 2.3em;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.carousel-homeslider-header-navyblue-slider .carousel-caption .cta-button {
+  padding: 5px 15px;
+  font-size: 1em;
+}
+
+.view-q-homeslider-header-navyblue-slider {
+  margin-top: 60px;
+}
+
+.header-navyblue-slider-menu  nav{
+  opacity: 1 !important;
+}
+
+.header-navyblue-menu .navbar-nav > li > a {
+  border-right: none;
+  padding: 10px;
+}
+
+.header-navyblue-slider-menu .dropdown-menu>li>a,
+.header-navyblue-slider-menu .dropdown-menu>li>a:hover,
+.header-navyblue-slider-menu .dropdown-menu>li>a.active,
+.header-navyblue-menu #navigation ul > li .active {
+  padding: 10px; 
+}
+
+.nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
+  border-color: none;
+}
+
+.carousel-homeslider-header-navyblue-slider .carousel-indicators  li{
+  width: 13px;
+  height: 13px;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+
+.carousel-homeslider-header-navyblue-slider .carousel-indicators {
+  bottom: 17%;
+}
+
+.carousel-homeslider-header-navyblue-slider .carousel-caption {
+  top: 18%;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Header / Header navy blue slider  --------------------*/
+/*--------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price table light green  -------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) {
+
+.price-pricetable-light-green{
+  padding-top: 8px;
+  padding-bottom: 12px;
+} 
+
+.price-pricetable-light-green .price-desc {
+  font-size: 15px;
+}
+
+.price-pricetable-light-green .price-desc p {
+  margin-bottom: 0px;
+}
+
+.price-pricetable-light-green h2 {
+  font-size: 30px;
+}
+
+.price-pricetable-light-green .price-table {
+  margin-top: 0px;
+}
+
+.price-pricetable-light-green .price-box {
+  margin-top: 30px;
+}
+
+.price-pricetable-light-green .price-header{
+  padding-left: 9px;
+}
+
+.price-pricetable-light-green .price-cost {
+  font-size: 28px;
+}
+
+.price-pricetable-light-green .price-features-list li {
+  font-size: 16px;
+  padding-left: 9px;
+}
+
+.price-pricetable-light-green h3 {
+  font-size: 22px;
+}
+
+.price-pricetable-light-green .price-box .price-features-list,
+.price-pricetable-light-green .price-box button {
+  display: none;
+}
+
+.price-pricetable-light-green .price-box:hover .price-features-list,
+.price-pricetable-light-green .price-box:hover button {
+  display: block;
+}
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px){ 
+
+.price-pricetable-light-green .price-header{
+  padding-left: 9px;
+}
+
+.price-pricetable-light-green .price-cost {
+  font-size: 30px;
+}
+
+.price-pricetable-light-green h3 {
+  font-size: 23px;
+}
+
+.price-pricetable-light-green .price-features-list li {
+  font-size: 16px;
+  padding-left: 9px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : PriceTable / Price table light green  ----------------*/
+/*--------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Testimonial / Testimonial light green -------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) { 
+
+.testimonial-light-green {
+  padding-top: 5px;
+  padding-bottom: 15px;
+}
+
+.testimonial-light-green h2{
+  margin-bottom: 13px;
+}
+ 
+ .testimonial-light-green .container {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+}
+ 
+ @media (min-width: 769px) and (max-width: 992px){ 
+ 
+ .testimonial-light-green .item {
+  padding: 5px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Testimonial / Testimonial light green ----------------*/
+/*--------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Blognews / Blog blue  -----------------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) {  
+
+.blog-blue {
+  padding-top: 23px;
+  padding-bottom: 26px;
+}
+
+.blog-blue  h2 {
+  font-size: 32px;
+}
+
+.blog-blue .view-header .desc {
+  padding-bottom: 0px;
+}
+
+.blog-blue .view-header,
+.blog-blue .blog-readmore {
+  text-align: center;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 992px) { 
+
+.blog-blue {
+  padding-bottom: 20px;
+}
+
+.blog-blue .view-content .blog-title,
+.blog-blue .view-content .meta-info {
+  padding-bottom: 26px;
+}
+
+}
+
+@media (min-width: 993px) and (max-width: 1200px) { 
+
+.blog-blue .view-content .blog-title a {
+  font-size: 18px;
+}
+
+.blog-blue .view-content .comments-count {
+  font-size: 12px;
+  padding-left: 0px;
+}
+
+.blog-blue .view-content .posted-date {
+  font-size: 12px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*--------------  Ends : Blognews / Blog blue  -----------------------------*/
+/*--------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Contact / Contact Grey  ---------------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 767px) {
+
+.contact-grey {
+  padding-top: 30px;
+  padding-bottom: 33px;
+}
+
+.contact-grey h3{
+  padding-bottom: 16px;
+}
+
+.contact-grey .form-group {
+  margin-bottom: 30px;
+}
+
+.contact-grey .btn {
+  width: 100%;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Contact / Contact Grey  -----------------------------*/
+/*--------------------------------------------------------------------------*/
